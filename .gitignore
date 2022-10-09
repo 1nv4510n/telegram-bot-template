@@ -1,3 +1,4 @@
 .vscode
 .env
 *.py[cod]
+bot.log
